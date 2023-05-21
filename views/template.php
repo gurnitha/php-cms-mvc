@@ -1,5 +1,9 @@
 <?php
+
 $path = Route::ctrRoute();
+$grupos =Controladorwsp::ctrGrupos();
+// var_dump($grupos);
+
 ?>
 <!DOCTYPE html>
 <html lang="zxx">

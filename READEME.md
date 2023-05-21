@@ -218,3 +218,13 @@ My Learning: https://www.udemy.com/course/desarrolla-en-php-un-poderoso-cms-para
 
         modified:   READEME.md
 
+
+#### 13. PHP MVC - loading dan display (var_dump) data array pada template
+
+        modified:   READEME.md
+        new file:   controllers/ctrgruposwsp.php
+        modified:   index.php
+        new file:   models/conexion.php
+        new file:   models/modelo.grupos.php
+        modified:   views/template.php
+
