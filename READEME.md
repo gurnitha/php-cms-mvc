@@ -114,3 +114,9 @@
         ...
         ├───controllers
         ├───views
+
+
+#### 7. PHP MVC - memindahkan assets dan template.php ke folder views
+
+        modified:   READEME.md
+        renamed:    template.php -> views/template.php

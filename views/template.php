@@ -1,5 +1,5 @@
 <?php  
-    $path = "http://localhost/php-cms-mvc/";
+    $path = "http://localhost/php-cms-mvc/views/";
 ?>
 
 <!DOCTYPE html>
@@ -9,7 +9,7 @@
 <!-- Mirrored from gigaland.io/03_grey-index.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 02 Oct 2021 00:17:11 GMT -->
 <head>
     <title>grupos de wsp y mas </title>
-    <link rel="icon" href="images/icon-red.png" type="image/gif" sizes="16x16">
+    <link rel="icon" href="<?php echo $path; ?>assets/images/icon-red.png" type="image/gif" sizes="16x16">
     <meta content="text/html;charset=utf-8" http-equiv="Content-Type">
     <meta content="width=device-width, initial-scale=1.0" name="viewport" />
     <meta content="Gigaland - NFT Marketplace Website Template" name="description" />
