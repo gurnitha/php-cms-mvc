@@ -1,5 +1,7 @@
-# MEMBUAT APLIKASI MENGGUNAKAN PHP MVC
-
+# php-cms-mvc
+Belajar membuat aplikasi cms dengan menggunakan php mvc 
+Github repo: https://github.com/gurnitha/php-cms-mvc/new/main?readme=1
+My Learning: https://www.udemy.com/course/desarrolla-en-php-un-poderoso-cms-para-enlaces-de-wsp/
 
 #### 1. Basic setup - merubah CMD/terminal prompt
 
@@ -91,7 +93,7 @@
 
         1. membuat path
         <?php  
-        	$path = "http://localhost/php-cms-mvc/";
+                $path = "http://localhost/php-cms-mvc/";
         ?>
 
         2. Loading path: contoh
@@ -184,3 +186,7 @@
         <?php
         $path = Route::ctrRoute();
         ?>
+
+
+#### 11. PHP MVC - memodifikasi README.md file
+
