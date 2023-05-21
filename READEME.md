@@ -43,3 +43,22 @@
 
         8.4 git commit
         git commit -am "1. Basic setup - merubah CMD/terminal prompt"
+
+        [master (root-commit) 0ab92b3] 1. Basic setup - merubah CMD/terminal prompt
+         2 files changed, 48 insertions(+)
+         create mode 100644 .gitignore
+         create mode 100644 READEME.md
+
+
+#### 2. Basic setup - memeriksa hasil git
+
+         hp@ING:~ git status
+         On branch master
+         nothing to commit, working tree clean
+
+         hp@ING:~ git log
+         commit 0ab92b30f448d22b67f5db74b4d51f8b3290d96b (HEAD -> master)
+         Author: ing <ingafter60@outlook.com>
+         Date:   Sun May 21 09:41:10 2023 +0700
+
+         1. Basic setup - merubah CMD/terminal prompt
