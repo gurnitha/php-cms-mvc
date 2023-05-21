@@ -80,3 +80,23 @@
 
         1. assets di-ignore pada git shg tidak ikut terbawa
         2. Tesing: berhasil :)
+
+
+#### 5. Basic setup - membuat path untuk loading assets dgn php
+
+        modified:   READEME.md
+        new file:   template.php
+
+        NOTE:
+
+        1. membuat path
+        <?php  
+        	$path = "http://localhost/php-cms-mvc/";
+        ?>
+
+        2. Loading path: contoh
+        <link href="<?php echo $path; ?>assets/css/animate.css" rel="stylesheet" type="text/css" />
+        
+        Note: isi path untuk semua: css, images, dan js
+
+        2. Tesing: berhasil :)
