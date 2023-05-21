@@ -69,3 +69,14 @@
         modified:   .gitignore
         modified:   READEME.md
         new file:   template.php
+
+
+#### 4. Basic setup - mengisi assets dan loading assets pada template
+
+        modified:   READEME.md
+        new file:   template.php
+
+        NOTE:
+
+        1. assets di-ignore pada git shg tidak ikut terbawa
+        2. Tesing: berhasil :)

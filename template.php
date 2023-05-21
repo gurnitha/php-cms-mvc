@@ -13,20 +13,20 @@
     <meta content="" name="author" />
     <!-- CSS Files
     ================================================== -->
-    <link id="bootstrap" href="css/bootstrap.min.css" rel="stylesheet" type="text/css" />
-    <link id="bootstrap-grid" href="css/bootstrap-grid.min.css" rel="stylesheet" type="text/css" />
-    <link id="bootstrap-reboot" href="css/bootstrap-reboot.min.css" rel="stylesheet" type="text/css" />
-    <link href="css/animate.css" rel="stylesheet" type="text/css" />
-    <link href="css/owl.carousel.css" rel="stylesheet" type="text/css" />
-    <link href="css/owl.theme.css" rel="stylesheet" type="text/css" />
-    <link href="css/owl.transitions.css" rel="stylesheet" type="text/css" />
-    <link href="css/magnific-popup.css" rel="stylesheet" type="text/css" />
-    <link href="css/jquery.countdown.css" rel="stylesheet" type="text/css" />
-    <link href="css/style.css" rel="stylesheet" type="text/css" />
-    <link href="css/de-grey.css" rel="stylesheet" type="text/css" />
+    <link id="bootstrap" href="assets/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
+    <link id="bootstrap-grid" href="assets/css/bootstrap-grid.min.css" rel="stylesheet" type="text/css" />
+    <link id="bootstrap-reboot" href="assets/css/bootstrap-reboot.min.css" rel="stylesheet" type="text/css" />
+    <link href="assets/css/animate.css" rel="stylesheet" type="text/css" />
+    <link href="assets/css/owl.carousel.css" rel="stylesheet" type="text/css" />
+    <link href="assets/css/owl.theme.css" rel="stylesheet" type="text/css" />
+    <link href="assets/css/owl.transitions.css" rel="stylesheet" type="text/css" />
+    <link href="assets/css/magnific-popup.css" rel="stylesheet" type="text/css" />
+    <link href="assets/css/jquery.countdown.css" rel="stylesheet" type="text/css" />
+    <link href="assets/css/style.css" rel="stylesheet" type="text/css" />
+    <link href="assets/css/de-grey.css" rel="stylesheet" type="text/css" />
     <!-- color scheme -->   
-    <link id="colors" href="css/colors/scheme-04.css" rel="stylesheet" type="text/css" />
-    <link href="css/coloring.css" rel="stylesheet" type="text/css" />
+    <link id="colors" href="assets/css/colors/scheme-04.css" rel="stylesheet" type="text/css" />
+    <link href="assets/css/coloring.css" rel="stylesheet" type="text/css" />
 </head>
 
 <body class="dark-scheme de-grey">
@@ -42,7 +42,7 @@
                                     <!-- logo begin -->
                                     <div id="logo">
                                         <a href="03_grey-index.html">
-                                            <img alt="" src="images/logo-3.png" />
+                                            <img alt="" src="assets/images/logo-3.png" />
                                         </a>
                                     </div>
                                     <!-- logo close -->
@@ -116,7 +116,7 @@
                                 </span>
                             </a>
                             <div class="nft_pic_wrap">
-                                <img src="images/carousel/crs-4.jpg" class="lazy img-fluid" alt="">
+                                <img src="assets/images/carousel/crs-4.jpg" class="lazy img-fluid" alt="">
                             </div>
                         </div>
 
@@ -128,7 +128,7 @@
                                 </span>
                             </a>
                             <div class="nft_pic_wrap">
-                                <img src="images/carousel/crs-5.jpg" class="lazy img-fluid" alt="">
+                                <img src="assets/images/carousel/crs-5.jpg" class="lazy img-fluid" alt="">
                             </div>
                         </div>                        
 
@@ -140,7 +140,7 @@
                                 </span>
                             </a>
                             <div class="nft_pic_wrap">
-                                <img src="images/carousel/crs-1.jpg" class="lazy img-fluid" alt="">
+                                <img src="assets/images/carousel/crs-1.jpg" class="lazy img-fluid" alt="">
                             </div>
                         </div>
                         
@@ -152,7 +152,7 @@
                                 </span>
                             </a>
                             <div class="nft_pic_wrap">
-                                <img src="images/items/anim-5.html" class="lazy img-fluid" alt="">
+                                <img src="assets/images/items/anim-5.html" class="lazy img-fluid" alt="">
                             </div>
                         </div>
 
@@ -164,7 +164,7 @@
                                 </span>
                             </a>
                             <div class="nft_pic_wrap">
-                                <img src="images/items/anim-8.html" class="lazy img-fluid" alt="">
+                                <img src="assets/images/items/anim-8.html" class="lazy img-fluid" alt="">
                             </div>
                         </div>
                     </div>
@@ -189,7 +189,7 @@
                                         <div class="de_countdown" data-year="2021" data-month="10" data-day="6" data-hour="8"></div>
                                         <div class="author_list_pp">
                                             <a href="03_grey-author.html">                                    
-                                                <img class="lazy" src="images/author/author-1.jpg" alt="">
+                                                <img class="lazy" src="assets/images/author/author-1.jpg" alt="">
                                                 <i class="fa fa-check"></i>
                                             </a>
                                         </div>
@@ -206,7 +206,7 @@
                                                 </div>
                                             </div>
                                             <a href="03_grey-item-details.html">
-                                                <img src="images/items-alt/static-1.jpg" class="lazy nft__item_preview" alt="">
+                                                <img src="assets/images/items-alt/static-1.jpg" class="lazy nft__item_preview" alt="">
                                             </a>
                                         </div>
                                         <div class="nft__item_info">
@@ -233,7 +233,7 @@
                                     <div class="nft__item style-2">
                                         <div class="author_list_pp">
                                             <a href="03_grey-author.html">                                    
-                                                <img class="lazy" src="images/author/author-10.jpg" alt="">
+                                                <img class="lazy" src="assets/images/author/author-10.jpg" alt="">
                                                 <i class="fa fa-check"></i>
                                             </a>
                                         </div>
@@ -250,7 +250,7 @@
                                                 </div>
                                             </div>
                                             <a href="03_grey-item-details.html">
-                                                <img src="images/items-alt/static-2.jpg" class="lazy nft__item_preview" alt="">
+                                                <img src="assets/images/items-alt/static-2.jpg" class="lazy nft__item_preview" alt="">
                                             </a>
                                         </div>
                                         <div class="nft__item_info">
@@ -278,7 +278,7 @@
                                         <div class="de_countdown id-color" data-year="2021" data-month="10" data-day="14" data-hour="8"></div>
                                         <div class="author_list_pp">
                                             <a href="03_grey-author.html">                                    
-                                                <img class="lazy" src="images/author/author-11.jpg" alt="">
+                                                <img class="lazy" src="assets/images/author/author-11.jpg" alt="">
                                                 <i class="fa fa-check"></i>
                                             </a>
                                         </div>
@@ -295,7 +295,7 @@
                                                 </div>
                                             </div>
                                             <a href="03_grey-item-details.html">
-                                                <img src="images/items-alt/static-3.jpg" class="lazy nft__item_preview" alt="">
+                                                <img src="assets/images/items-alt/static-3.jpg" class="lazy nft__item_preview" alt="">
                                             </a>
                                         </div>
                                         <div class="nft__item_info">
@@ -322,7 +322,7 @@
                                     <div class="nft__item style-2">
                                         <div class="author_list_pp">
                                             <a href="03_grey-author.html">                                    
-                                                <img class="lazy" src="images/author/author-12.jpg" alt="">
+                                                <img class="lazy" src="assets/images/author/author-12.jpg" alt="">
                                                 <i class="fa fa-check"></i>
                                             </a>
                                         </div>
@@ -339,7 +339,7 @@
                                                 </div>
                                             </div>
                                             <a href="03_grey-item-details.html">
-                                                <img src="images/items-alt/static-4.jpg" class="lazy nft__item_preview" alt="">
+                                                <img src="assets/images/items-alt/static-4.jpg" class="lazy nft__item_preview" alt="">
                                             </a>
                                         </div>
                                         <div class="nft__item_info">
@@ -366,7 +366,7 @@
                                     <div class="nft__item style-2">
                                         <div class="author_list_pp">
                                             <a href="03_grey-author.html">                                    
-                                                <img class="lazy" src="images/author/author-9.jpg" alt="">
+                                                <img class="lazy" src="assets/images/author/author-9.jpg" alt="">
                                                 <i class="fa fa-check"></i>
                                             </a>
                                         </div>
@@ -383,7 +383,7 @@
                                                 </div>
                                             </div>
                                             <a href="03_grey-item-details.html">
-                                                <img src="images/items/anim-4.html" class="lazy nft__item_preview" alt="">
+                                                <img src="assets/images/items/anim-4.html" class="lazy nft__item_preview" alt="">
                                             </a>
                                         </div>
                                         <div class="nft__item_info">
@@ -411,7 +411,7 @@
                                         <div class="de_countdown id-color" data-year="2021" data-month="10" data-day="15" data-hour="8"></div>
                                         <div class="author_list_pp">
                                             <a href="03_grey-author.html">                                    
-                                                <img class="lazy" src="images/author/author-2.jpg" alt="">
+                                                <img class="lazy" src="assets/images/author/author-2.jpg" alt="">
                                                 <i class="fa fa-check"></i>
                                             </a>
                                         </div>
@@ -428,7 +428,7 @@
                                                 </div>
                                             </div>
                                             <a href="03_grey-item-details.html">
-                                                <img src="images/items-alt/static-5.jpg" class="lazy nft__item_preview" alt="">
+                                                <img src="assets/images/items-alt/static-5.jpg" class="lazy nft__item_preview" alt="">
                                             </a>
                                         </div>
                                         <div class="nft__item_info">
@@ -455,7 +455,7 @@
                                     <div class="nft__item style-2">
                                         <div class="author_list_pp">
                                             <a href="03_grey-author.html">                                    
-                                                <img class="lazy" src="images/author/author-3.jpg" alt="">
+                                                <img class="lazy" src="assets/images/author/author-3.jpg" alt="">
                                                 <i class="fa fa-check"></i>
                                             </a>
                                         </div>
@@ -472,7 +472,7 @@
                                                 </div>
                                             </div>
                                             <a href="03_grey-item-details.html">
-                                                <img src="images/items-alt/static-6.jpg" class="lazy nft__item_preview" alt="">
+                                                <img src="assets/images/items-alt/static-6.jpg" class="lazy nft__item_preview" alt="">
                                             </a>
                                         </div>
                                         <div class="nft__item_info">
@@ -500,7 +500,7 @@
                                         <div class="de_countdown id-color" data-year="2021" data-month="10" data-day="29" data-hour="8"></div>
                                         <div class="author_list_pp">
                                             <a href="03_grey-author.html">                                    
-                                                <img class="lazy" src="images/author/author-4.jpg" alt="">
+                                                <img class="lazy" src="assets/images/author/author-4.jpg" alt="">
                                                 <i class="fa fa-check"></i>
                                             </a>
                                         </div>
@@ -517,7 +517,7 @@
                                                 </div>
                                             </div>
                                             <a href="03_grey-item-details.html">
-                                                <img src="images/items/anim-5.html" class="lazy nft__item_preview" alt="">
+                                                <img src="assets/images/items/anim-5.html" class="lazy nft__item_preview" alt="">
                                             </a>
                                         </div>
                                         <div class="nft__item_info">
@@ -551,10 +551,10 @@
 
                                         <div class="nft_coll style-2">
                                             <div class="nft_wrap">
-                                                <a href="03_grey-collection.html"><img src="images/collections/coll-1.jpg" class="lazy img-fluid" alt=""></a>
+                                                <a href="03_grey-collection.html"><img src="assets/images/collections/coll-1.jpg" class="lazy img-fluid" alt=""></a>
                                             </div>
                                             <div class="nft_coll_pp">
-                                                <a href="03_grey-collection.html"><img class="lazy" src="images/author/author-1.jpg" alt=""></a>
+                                                <a href="03_grey-collection.html"><img class="lazy" src="assets/images/author/author-1.jpg" alt=""></a>
                                                 <i class="fa fa-check"></i>
                                             </div>
                                             <div class="nft_coll_info">
@@ -565,10 +565,10 @@
                                     
                                         <div class="nft_coll style-2">
                                             <div class="nft_wrap">
-                                                <a href="03_grey-collection.html"><img src="images/collections/coll-2.jpg" class="lazy img-fluid" alt=""></a>
+                                                <a href="03_grey-collection.html"><img src="assets/images/collections/coll-2.jpg" class="lazy img-fluid" alt=""></a>
                                             </div>
                                             <div class="nft_coll_pp">
-                                                <a href="03_grey-collection.html"><img class="lazy" src="images/author/author-2.jpg" alt=""></a>
+                                                <a href="03_grey-collection.html"><img class="lazy" src="assets/images/author/author-2.jpg" alt=""></a>
                                                 <i class="fa fa-check"></i>
                                             </div>
                                             <div class="nft_coll_info">
@@ -579,10 +579,10 @@
                                     
                                         <div class="nft_coll style-2">
                                             <div class="nft_wrap">
-                                                <a href="03_grey-collection.html"><img src="images/collections/coll-3.jpg" class="lazy img-fluid" alt=""></a>
+                                                <a href="03_grey-collection.html"><img src="assets/images/collections/coll-3.jpg" class="lazy img-fluid" alt=""></a>
                                             </div>
                                             <div class="nft_coll_pp">
-                                                <a href="03_grey-collection.html"><img class="lazy" src="images/author/author-3.jpg" alt=""></a>
+                                                <a href="03_grey-collection.html"><img class="lazy" src="assets/images/author/author-3.jpg" alt=""></a>
                                                 <i class="fa fa-check"></i>
                                             </div>
                                             <div class="nft_coll_info">
@@ -593,10 +593,10 @@
                                     
                                         <div class="nft_coll style-2">
                                             <div class="nft_wrap">
-                                                <a href="03_grey-collection.html"><img src="images/collections/coll-4.jpg" class="lazy img-fluid" alt=""></a>
+                                                <a href="03_grey-collection.html"><img src="assets/images/collections/coll-4.jpg" class="lazy img-fluid" alt=""></a>
                                             </div>
                                             <div class="nft_coll_pp">
-                                                <a href="03_grey-collection.html"><img class="lazy" src="images/author/author-4.jpg" alt=""></a>
+                                                <a href="03_grey-collection.html"><img class="lazy" src="assets/images/author/author-4.jpg" alt=""></a>
                                                 <i class="fa fa-check"></i>
                                             </div>
                                             <div class="nft_coll_info">
@@ -607,10 +607,10 @@
                                     
                                         <div class="nft_coll style-2">
                                             <div class="nft_wrap">
-                                                <a href="03_grey-collection.html"><img src="images/collections/coll-5.jpg" class="lazy img-fluid" alt=""></a>
+                                                <a href="03_grey-collection.html"><img src="assets/images/collections/coll-5.jpg" class="lazy img-fluid" alt=""></a>
                                             </div>
                                             <div class="nft_coll_pp">
-                                                <a href="03_grey-collection.html"><img class="lazy" src="images/author/author-5.jpg" alt=""></a>
+                                                <a href="03_grey-collection.html"><img class="lazy" src="assets/images/author/author-5.jpg" alt=""></a>
                                                 <i class="fa fa-check"></i>
                                             </div>
                                             <div class="nft_coll_info">
@@ -621,10 +621,10 @@
                                     
                                         <div class="nft_coll style-2">
                                             <div class="nft_wrap">
-                                                <a href="03_grey-collection.html"><img src="images/collections/coll-6.jpg" class="lazy img-fluid" alt=""></a>
+                                                <a href="03_grey-collection.html"><img src="assets/images/collections/coll-6.jpg" class="lazy img-fluid" alt=""></a>
                                             </div>
                                             <div class="nft_coll_pp">
-                                                <a href="03_grey-collection.html"><img class="lazy" src="images/author/author-6.jpg" alt=""></a>
+                                                <a href="03_grey-collection.html"><img class="lazy" src="assets/images/author/author-6.jpg" alt=""></a>
                                                 <i class="fa fa-check"></i>
                                             </div>
                                             <div class="nft_coll_info">
@@ -647,7 +647,7 @@
                                             <li>                                    
                                                 <div class="author_list_pp">
                                                     <a href="03_grey-author.html">
-                                                        <img class="lazy" src="images/author/author-1.jpg" alt="">
+                                                        <img class="lazy" src="assets/images/author/author-1.jpg" alt="">
                                                         <i class="fa fa-check"></i>
                                                     </a>
                                                 </div>                                    
@@ -659,7 +659,7 @@
                                             <li>
                                                 <div class="author_list_pp">
                                                     <a href="03_grey-author.html">                                    
-                                                        <img class="lazy" src="images/author/author-2.jpg" alt="">
+                                                        <img class="lazy" src="assets/images/author/author-2.jpg" alt="">
                                                         <i class="fa fa-check"></i>
                                                     </a>
                                                 </div>
@@ -671,7 +671,7 @@
                                             <li>
                                                 <div class="author_list_pp">
                                                     <a href="03_grey-author.html">                                    
-                                                        <img class="lazy" src="images/author/author-3.jpg" alt="">
+                                                        <img class="lazy" src="assets/images/author/author-3.jpg" alt="">
                                                         <i class="fa fa-check"></i>
                                                     </a>
                                                 </div>
@@ -683,7 +683,7 @@
                                             <li>
                                                 <div class="author_list_pp">
                                                     <a href="03_grey-author.html">                                    
-                                                        <img class="lazy" src="images/author/author-4.jpg" alt="">
+                                                        <img class="lazy" src="assets/images/author/author-4.jpg" alt="">
                                                         <i class="fa fa-check"></i>
                                                     </a>
                                                 </div>
@@ -695,7 +695,7 @@
                                             <li>
                                                 <div class="author_list_pp">
                                                     <a href="03_grey-author.html">                                    
-                                                        <img class="lazy" src="images/author/author-5.jpg" alt="">
+                                                        <img class="lazy" src="assets/images/author/author-5.jpg" alt="">
                                                         <i class="fa fa-check"></i>
                                                     </a>
                                                 </div>
@@ -707,7 +707,7 @@
                                             <li>
                                                 <div class="author_list_pp">
                                                     <a href="03_grey-author.html">                                    
-                                                        <img class="lazy" src="images/author/author-6.jpg" alt="">
+                                                        <img class="lazy" src="assets/images/author/author-6.jpg" alt="">
                                                         <i class="fa fa-check"></i>
                                                     </a>
                                                 </div>
@@ -719,7 +719,7 @@
                                             <li>
                                                 <div class="author_list_pp">
                                                     <a href="03_grey-author.html">                                    
-                                                        <img class="lazy" src="images/author/author-7.jpg" alt="">
+                                                        <img class="lazy" src="assets/images/author/author-7.jpg" alt="">
                                                         <i class="fa fa-check"></i>
                                                     </a>
                                                 </div>
@@ -731,7 +731,7 @@
                                             <li>
                                                 <div class="author_list_pp">
                                                     <a href="03_grey-author.html">                                    
-                                                        <img class="lazy" src="images/author/author-8.jpg" alt="">
+                                                        <img class="lazy" src="assets/images/author/author-8.jpg" alt="">
                                                         <i class="fa fa-check"></i>
                                                     </a>
                                                 </div>
@@ -743,7 +743,7 @@
                                             <li>
                                                 <div class="author_list_pp">
                                                     <a href="03_grey-author.html">                                    
-                                                        <img class="lazy" src="images/author/author-9.jpg" alt="">
+                                                        <img class="lazy" src="assets/images/author/author-9.jpg" alt="">
                                                         <i class="fa fa-check"></i>
                                                     </a>
                                                 </div>
@@ -755,7 +755,7 @@
                                             <li>
                                                 <div class="author_list_pp">
                                                     <a href="03_grey-author.html">                                    
-                                                        <img class="lazy" src="images/author/author-10.jpg" alt="">
+                                                        <img class="lazy" src="assets/images/author/author-10.jpg" alt="">
                                                         <i class="fa fa-check"></i>
                                                     </a>
                                                 </div>
@@ -767,7 +767,7 @@
                                             <li>
                                                 <div class="author_list_pp">
                                                     <a href="03_grey-author.html">                                    
-                                                        <img class="lazy" src="images/author/author-11.jpg" alt="">
+                                                        <img class="lazy" src="assets/images/author/author-11.jpg" alt="">
                                                         <i class="fa fa-check"></i>
                                                     </a>
                                                 </div>
@@ -779,7 +779,7 @@
                                             <li>
                                                 <div class="author_list_pp">
                                                     <a href="03_grey-author.html">                                    
-                                                        <img class="lazy" src="images/author/author-12.jpg" alt="">
+                                                        <img class="lazy" src="assets/images/author/author-12.jpg" alt="">
                                                         <i class="fa fa-check"></i>
                                                     </a>
                                                 </div>
@@ -930,22 +930,22 @@
     
     <!-- Javascript Files
     ================================================== -->
-    <script src="js/jquery.min.js"></script>
-    <script src="js/bootstrap.min.js"></script>
-    <script src="js/bootstrap.bundle.min.js"></script>
-    <script src="js/wow.min.js"></script>
-    <script src="js/jquery.isotope.min.js"></script>
-    <script src="js/easing.js"></script>
-    <script src="js/owl.carousel.js"></script>
-    <script src="js/validation.js"></script>
-    <script src="js/jquery.magnific-popup.min.js"></script>
-    <script src="js/enquire.min.js"></script>
-    <script src="js/jquery.plugin.js"></script>
-    <script src="js/jquery.countTo.js"></script>
-    <script src="js/jquery.countdown.js"></script>
-    <script src="js/jquery.lazy.min.js"></script>
-    <script src="js/jquery.lazy.plugins.min.js"></script>
-    <script src="js/designesia.js"></script>
+    <script src="assets/js/jquery.min.js"></script>
+    <script src="assets/js/bootstrap.min.js"></script>
+    <script src="assets/js/bootstrap.bundle.min.js"></script>
+    <script src="assets/js/wow.min.js"></script>
+    <script src="assets/js/jquery.isotope.min.js"></script>
+    <script src="assets/js/easing.js"></script>
+    <script src="assets/js/owl.carousel.js"></script>
+    <script src="assets/js/validation.js"></script>
+    <script src="assets/js/jquery.magnific-popup.min.js"></script>
+    <script src="assets/js/enquire.min.js"></script>
+    <script src="assets/js/jquery.plugin.js"></script>
+    <script src="assets/js/jquery.countTo.js"></script>
+    <script src="assets/js/jquery.countdown.js"></script>
+    <script src="assets/js/jquery.lazy.min.js"></script>
+    <script src="assets/js/jquery.lazy.plugins.min.js"></script>
+    <script src="assets/js/designesia.js"></script>
 
 
 </body>
