@@ -96,7 +96,21 @@
 
         2. Loading path: contoh
         <link href="<?php echo $path; ?>assets/css/animate.css" rel="stylesheet" type="text/css" />
-        
+
         Note: isi path untuk semua: css, images, dan js
 
         2. Tesing: berhasil :)
+
+
+#### 6. PHP MVC - membuat folder controllers dan views
+
+        modified:   READEME.md
+
+        hp@ING:~ tree
+        Folder PATH listing
+        Volume serial number is D810-E8AB
+        E:.
+        ├───assets
+        ...
+        ├───controllers
+        ├───views
