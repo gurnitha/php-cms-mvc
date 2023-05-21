@@ -1,5 +1,5 @@
-<?php  
-$path = "http://localhost/php-cms-mvc/views/";
+<?php
+$path = Route::ctrRoute();
 ?>
 <!DOCTYPE html>
 <html lang="zxx">

@@ -149,3 +149,38 @@
         $template = new Template();
         $template->ctrTemplate();
         ?>
+
+
+#### 10. PHP MVC - membuat Route controller
+
+        1. Membuat Route controller
+        new file:   controllers/ctrRoute.php
+
+        <?php  
+
+        class Route {
+                
+                static public function ctrRoute(){
+                        return "http://localhost/php-cms-mvc/views/";
+                }
+        }
+
+        ?>
+
+        2. Include Route controller
+        modified:   index.php
+
+        <?php  
+        require "controllers/ctrRoute.php";
+        require "controllers/ctrTemplate.php";
+        $template = new Template();
+        $template->ctrTemplate();
+
+        ?>
+
+        3. Load  Route controller
+        modified:   views/template.php
+
+        <?php
+        $path = Route::ctrRoute();
+        ?>
