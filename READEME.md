@@ -62,3 +62,10 @@
          Date:   Sun May 21 09:41:10 2023 +0700
 
          1. Basic setup - merubah CMD/terminal prompt
+
+
+#### 3. Basic setup - mengisi template
+
+        modified:   .gitignore
+        modified:   READEME.md
+        new file:   template.php
