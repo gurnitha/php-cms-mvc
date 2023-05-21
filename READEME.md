@@ -135,3 +135,17 @@
         new file:   views/modules/header.php
         new file:   views/modules/slider.php
         modified:   views/template.php
+
+
+#### 9. PHP MVC - membuat controller dengan: class 'Template', method 'ctrTemplate'
+
+        1. Membuat controller
+        new file:   controllers/ctrTemplate.php
+        2. Membuat index.php file dan load controller di sini
+        new file:   index.php
+
+        <?php  
+        require "controllers/ctrTemplate.php";
+        $template = new Template();
+        $template->ctrTemplate();
+        ?>
