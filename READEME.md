@@ -120,3 +120,18 @@
 
         modified:   READEME.md
         renamed:    template.php -> views/template.php
+
+
+#### 8. PHP MVC - membuat modules (segmentasi template)
+
+        modified:   READEME.md
+        new file:   views/modules/back_to_top.php
+        new file:   views/modules/content.php
+        new file:   views/modules/content_hot_collections.php
+        new file:   views/modules/content_new_items.php
+        new file:   views/modules/content_top_seller.php
+        new file:   views/modules/create_and_sell_now.php
+        new file:   views/modules/footer.php
+        new file:   views/modules/header.php
+        new file:   views/modules/slider.php
+        modified:   views/template.php
