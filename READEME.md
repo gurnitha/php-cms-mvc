@@ -190,3 +190,31 @@ My Learning: https://www.udemy.com/course/desarrolla-en-php-un-poderoso-cms-para
 
 #### 11. PHP MVC - memodifikasi README.md file
 
+
+#### 12. PHP MVC - membuat tabel 'group_wsp' dan insert data
+
+        CREATE TABLE `grupos_wsp` (
+          `id` int(11) NOT NULL,
+          `usu_id` int(11) NOT NULL,
+          `id_cat` int(11) NOT NULL,
+          `wsp_nom` text NOT NULL,
+          `wsp_link` text NOT NULL,
+          `wsp_descrip` text NOT NULL,
+          `wsp_foto` text NOT NULL,
+          `wsp_keywords` text NOT NULL
+        ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
+
+        --
+        -- Volcado de datos para la tabla `grupos_wsp`
+        --
+
+        INSERT INTO `grupos_wsp` (`id`, `usu_id`, `id_cat`, `wsp_nom`, `wsp_link`, `wsp_descrip`, `wsp_foto`, `wsp_keywords`) VALUES
+        (1, 1, 1, 'sticker de perros', 'https://chat.whatsapp.com/BiiCiAnbOrqCHMkwzOzmL4', 'grupo para compartir sticvker graciosos', 'vistas/imagenes/grupos/100.jpg', 'amor  amistad stickers diversion'),
+        (2, 1, 1, 'sticker de gatos', 'https://chat.whatsapp.com/BiiCiAnbOrqCHMkwzOzmL4', 'grupo para compartir sticvker graciosos', 'vistas/imagenes/grupos/1.jpg', 'amor  amistad stickers diversion'),
+        (3, 1, 1, 'sticker de gatos', 'https://chat.whatsapp.com/BiiCiAnbOrqCHMkwzOzmL4', 'grupo para compartir sticvker graciosos', 'vistas/imagenes/grupos/2.jpg', 'amor  amistad stickers diversion'),
+        (4, 1, 1, 'sticker de gatos', 'https://chat.whatsapp.com/BiiCiAnbOrqCHMkwzOzmL4', 'grupo para compartir sticvker graciosos', 'vistas/imagenes/grupos/3.jpg', 'amor  amistad stickers diversion'),
+        (5, 1, 1, 'sticker de gatos', 'https://chat.whatsapp.com/BiiCiAnbOrqCHMkwzOzmL4', 'grupo para compartir sticvker graciosos', 'vistas/imagenes/grupos/4.jpg', 'amor  amistad stickers diversion'),
+        (6, 1, 1, 'sticker de gatos', 'https://chat.whatsapp.com/BiiCiAnbOrqCHMkwzOzmL4', 'grupo para compartir sticvker graciosos', 'vistas/imagenes/grupos/5.jpg', 'amor  amistad stickers diversion');
+
+        modified:   READEME.md
+
